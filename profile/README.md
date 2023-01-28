@@ -12,5 +12,6 @@
 -->
 
 🙋‍♀️ We are a game development team at the University of Hawaii at Manoa for class ICS485/ACM487
+<br/>
 👩‍💻 [Link to our homepage](https://uhm-triplet.github.io/)
 
