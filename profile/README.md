@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 we are Triplet
 
 <!--
 
@@ -10,3 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+🙋‍♀️ We are a game development team at the University of Hawaii at Manoa for class ICS485/ACM487
+👩‍💻 [Link to our homepage](https://uhm-triplet.github.io/)
+
